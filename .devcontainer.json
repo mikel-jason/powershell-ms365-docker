@@ -1,0 +1,4 @@
+{
+    "image": "powershell-ms365:latest",
+    "extensions": ["ms-vscode.powershell"]
+}
